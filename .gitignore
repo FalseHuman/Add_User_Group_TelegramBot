@@ -1,0 +1,4 @@
+*.session
+*.log
+*.db
+client.py
